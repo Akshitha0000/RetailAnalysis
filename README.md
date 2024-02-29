@@ -21,8 +21,6 @@ Product Lookup: Detailed information about each product available in the store. 
 
 Calendar: A structured calendar with dates, days of the week, months, and any special events or holidays relevant to the retail business. Helps analyze sales patterns over time and plan promotions or campaigns accordingly.
 
-Food Inventory: Focuses specifically on inventory management for food products within the retail store. Includes details such as product IDs, quantities in stock, expiration dates, replenishment schedules, and any other relevant inventory-related data.
-
 Data Modeling:
 The Power BI report generated from the data includes a robust data modeling approach:
 
